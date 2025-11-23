@@ -63,3 +63,7 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+**Tools**
+SQL Server Express — for hosting your database
+SQL Server Management Studio (SSMS) — to run queries
